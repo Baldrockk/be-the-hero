@@ -8,6 +8,7 @@ const IncidentController = require('./controllers/IncidentController');
 const ProfileController = require('./controllers/ProfileController');
 const SessionController = require('./controllers/SessionController');
 
+
 /**
  * Métodos HTTP
  * Get: buscar/listar uma informação no back-end
